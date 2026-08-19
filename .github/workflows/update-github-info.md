@@ -17,8 +17,8 @@ network:
 tools:
   github:
     toolsets: [repos]
-  web-fetch:
-  edit:
+  web-fetch: true
+  edit: true
 safe-outputs:
   create-pull-request:
     draft: true
