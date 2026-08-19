@@ -18,7 +18,7 @@ network:
 tools:
   github:
     toolsets: [repos]
-  web-fetch:
+  bash: [curl]
   edit:
 safe-outputs:
   create-pull-request:
@@ -34,9 +34,9 @@ Keep the site's update feed current and reviewable.
 
 1. Read `notes/mona-notes.md` and follow its editorial guidance.
 2. Use GitHub repository API tools to read repository guidance or reference files when needed. Do not use terminal, CLI, or sandboxed commands for that repository guidance.
-3. Fetch and read `https://github.blog/latest/` with the web-fetch tool.
-4. Fetch and read `https://github.blog/changelog/` with the web-fetch tool.
-5. Fetch and read `https://awesome-copilot.github.com/workflows/` with the web-fetch tool.
+3. Use the bash tool with `curl` to fetch and read `https://github.blog/latest/`.
+4. Use the bash tool with `curl` to fetch and read `https://github.blog/changelog/`.
+5. Use the bash tool with `curl` to fetch and read `https://awesome-copilot.github.com/workflows/`.
 6. Identify the most useful recent Blog, Changelog, and Awesome Copilot workflow items for developers. Keep summaries short and practical, include the source for every item, and avoid duplicating existing entries unless the source has materially changed.
 7. Update only `site/content/github-info.md` with the curated GitHub information. Preserve its existing editorial sections and Markdown style.
 8. When there is a meaningful update, use the `create_pull_request` safe output to propose the change in a pull request for Mona to review. Do not write directly to `main`.

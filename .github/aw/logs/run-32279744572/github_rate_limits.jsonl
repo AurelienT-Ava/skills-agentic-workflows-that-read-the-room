@@ -1,0 +1,4 @@
+{"timestamp":"2026-08-19T17:07:03.133Z","source":"response_headers","operation":"actions.getWorkflowRun","resource":"core","limit":5000,"remaining":4954,"used":46,"reset":"2026-08-19T17:22:36.000Z"}
+{"timestamp":"2026-08-19T17:07:03.391Z","source":"response_headers","operation":"actions.listWorkflowRuns","resource":"core","limit":5000,"remaining":4953,"used":47,"reset":"2026-08-19T17:22:36.000Z"}
+{"timestamp":"2026-08-19T17:07:07.564Z","source":"response_headers","operation":"repos.getContent","resource":"core","limit":5000,"remaining":4993,"used":7,"reset":"2026-08-19T17:22:39.000Z"}
+{"timestamp":"2026-08-19T17:07:07.853Z","source":"response_headers","operation":"repos.getContent","resource":"core","limit":5000,"remaining":4992,"used":8,"reset":"2026-08-19T17:22:39.000Z"}
