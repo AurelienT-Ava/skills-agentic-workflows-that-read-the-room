@@ -1,0 +1,6 @@
+{"ts":1787159448764,"event":"TRACK_START","rid":"0eaa4387-84ec-451b-8b0c-87ab426f3cce","provider":"copilot","path":"/chat/completions","streaming":true,"ct":"text/event-stream","ce":"(none)","status":200}
+{"ts":1787159448787,"event":"TRACK_END","rid":"0eaa4387-84ec-451b-8b0c-87ab426f3cce","result":"ok","streaming":true,"model":"claude-sonnet-5","input":4270,"output":109,"cache_read":0}
+{"ts":1787159453537,"event":"TRACK_START","rid":"ca67408c-c755-4858-8cdd-c31054dabb02","provider":"copilot","path":"/chat/completions","streaming":true,"ct":"text/event-stream","ce":"(none)","status":200}
+{"ts":1787159454601,"event":"TRACK_END","rid":"ca67408c-c755-4858-8cdd-c31054dabb02","result":"ok","streaming":true,"model":"claude-sonnet-5","input":2,"output":422,"cache_read":28669}
+{"ts":1787159456915,"event":"TRACK_START","rid":"7a617e84-9efa-4a51-9151-8574a1fa2dfc","provider":"copilot","path":"/chat/completions","streaming":true,"ct":"text/event-stream","ce":"(none)","status":200}
+{"ts":1787159457678,"event":"TRACK_END","rid":"7a617e84-9efa-4a51-9151-8574a1fa2dfc","result":"ok","streaming":true,"model":"claude-sonnet-5","input":2,"output":119,"cache_read":33366}

@@ -1,0 +1,8 @@
+2026-08-19T17:06:50.9150000Z Evaluating activation.if
+2026-08-19T17:06:50.9150000Z Evaluating: success()
+2026-08-19T17:06:50.9150000Z Result: true
+2026-08-19T17:06:50.9170000Z Requested labels: ubuntu-slim
+2026-08-19T17:06:50.9170000Z Job defined at: AurelienT-Ava/skills-agentic-workflows-that-read-the-room/.github/workflows/update-github-info.lock.yml@refs/heads/main
+2026-08-19T17:06:50.9170000Z Waiting for a runner to pick up this job...
+2026-08-19T17:06:50.9280000Z Job is about to start running on the hosted runner: GitHub Actions 1000000334
+2026-08-19T17:06:50.9280000Z Job is waiting for a hosted runner to come online.

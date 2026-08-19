@@ -1,0 +1,28 @@
+{"timestamp":"2026-08-19T17:07:03.133Z","source":"response_headers","operation":"actions.getWorkflowRun","resource":"core","limit":5000,"remaining":4954,"used":46,"reset":"2026-08-19T17:22:36.000Z"}
+{"timestamp":"2026-08-19T17:07:03.391Z","source":"response_headers","operation":"actions.listWorkflowRuns","resource":"core","limit":5000,"remaining":4953,"used":47,"reset":"2026-08-19T17:22:36.000Z"}
+{"timestamp":"2026-08-19T17:07:07.564Z","source":"response_headers","operation":"repos.getContent","resource":"core","limit":5000,"remaining":4993,"used":7,"reset":"2026-08-19T17:22:39.000Z"}
+{"timestamp":"2026-08-19T17:07:07.853Z","source":"response_headers","operation":"repos.getContent","resource":"core","limit":5000,"remaining":4992,"used":8,"reset":"2026-08-19T17:22:39.000Z"}
+{"timestamp":"2026-08-19T17:09:54.633Z","source":"retry","operation":"MCP gateway health check","attempt":1,"delay_ms":500}
+{"timestamp":"2026-08-19T17:09:55.197Z","source":"retry","operation":"MCP gateway health check","attempt":2,"delay_ms":1000}
+{"timestamp":"2026-08-19T17:09:56.200Z","source":"retry","operation":"MCP gateway health check","attempt":3,"delay_ms":1000}
+{"timestamp":"2026-08-19T17:09:57.202Z","source":"retry","operation":"MCP gateway health check","attempt":4,"delay_ms":1000}
+{"timestamp":"2026-08-19T17:09:58.204Z","source":"retry","operation":"MCP gateway health check","attempt":5,"delay_ms":1000}
+{"timestamp":"2026-08-19T17:09:59.204Z","source":"retry","operation":"MCP gateway health check","attempt":6,"delay_ms":1000}
+{"timestamp":"2026-08-19T17:10:00.205Z","source":"retry","operation":"MCP gateway health check","attempt":7,"delay_ms":1000}
+{"timestamp":"2026-08-19T17:10:01.206Z","source":"retry","operation":"MCP gateway health check","attempt":8,"delay_ms":1000}
+{"timestamp":"2026-08-19T17:10:02.207Z","source":"retry","operation":"MCP gateway health check","attempt":9,"delay_ms":1000}
+{"timestamp":"2026-08-19T17:10:03.209Z","source":"retry","operation":"MCP gateway health check","attempt":10,"delay_ms":1000}
+{"timestamp":"2026-08-19T17:10:04.211Z","source":"retry","operation":"MCP gateway health check","attempt":11,"delay_ms":1000}
+{"timestamp":"2026-08-19T17:10:05.212Z","source":"retry","operation":"MCP gateway health check","attempt":12,"delay_ms":1000}
+{"timestamp":"2026-08-19T17:10:06.213Z","source":"retry","operation":"MCP gateway health check","attempt":13,"delay_ms":1000}
+{"timestamp":"2026-08-19T17:10:07.214Z","source":"retry","operation":"MCP gateway health check","attempt":14,"delay_ms":1000}
+{"timestamp":"2026-08-19T17:10:08.215Z","source":"retry","operation":"MCP gateway health check","attempt":15,"delay_ms":1000}
+{"timestamp":"2026-08-19T17:10:09.215Z","source":"retry","operation":"MCP gateway health check","attempt":16,"delay_ms":1000}
+{"timestamp":"2026-08-19T17:10:10.217Z","source":"retry","operation":"MCP gateway health check","attempt":17,"delay_ms":1000}
+{"timestamp":"2026-08-19T17:10:11.217Z","source":"retry","operation":"MCP gateway health check","attempt":18,"delay_ms":1000}
+{"timestamp":"2026-08-19T17:10:12.220Z","source":"retry","operation":"MCP gateway health check","attempt":19,"delay_ms":1000}
+{"timestamp":"2026-08-19T17:10:13.221Z","source":"retry","operation":"MCP gateway health check","attempt":20,"delay_ms":1000}
+{"timestamp":"2026-08-19T17:10:14.222Z","source":"retry","operation":"MCP gateway health check","attempt":21,"delay_ms":1000}
+{"timestamp":"2026-08-19T17:10:15.223Z","source":"retry","operation":"MCP gateway health check","attempt":22,"delay_ms":1000}
+{"timestamp":"2026-08-19T17:10:16.225Z","source":"retry","operation":"MCP gateway health check","attempt":23,"delay_ms":1000}
+{"timestamp":"2026-08-19T17:11:01.690Z","source":"response_headers","operation":"repos.listCollaborators","resource":"core","limit":5000,"remaining":4989,"used":11,"reset":"2026-08-19T17:22:39.000Z"}
